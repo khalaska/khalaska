@@ -15,7 +15,7 @@
   <img align="center" alt="kah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kah-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="kah-git" height="30" width="40"
-src="![download20231101154856](https://github.com/khalaska/KauaneAndrade/assets/109886795/af02bad1-9611-4c20-968b-12a49b851e3a)">
+src="![download20231101154856]">
  </div>
 
   <div> 
