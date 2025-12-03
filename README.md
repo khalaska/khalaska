@@ -1,4 +1,6 @@
-## Oi! Sou a Kauane Andrade, estudante de dev web full stack.
+## Oi! Sou a Kauane, profissional de desenvolvimento full stack e amante de tecnologia. Aqui nesse espaço você encontra meus principais projetos e minhas linguagens bases que tenho experiências.
+
+## Hi! I'm Kauane, a full-stack development professional and technology enthusiast. Here, you’ll find my main projects and the core languages I have experience with.
 
 <div>
   <a href= "https://github.com/khalaska">
